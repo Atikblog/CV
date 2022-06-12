@@ -1,5 +1,5 @@
 # CV
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -62,9 +62,9 @@ li a:hover:not(.active) {
   <p>Religion			         	  :Islam</p>
   <p>Nationality			      	:Bangladeshi</p>
   <p>Educational Qualification: <br>  
-    <img src="cv1.jpg" width="300" height="350">  </p></br> </color>            
+    <img src="cv1.jpg" width="300" height="350">  </p></br>             
     
-    </p>
+    
   
   <p>Experience              :I have two years work experience in private job sector.</p>
 </div>
