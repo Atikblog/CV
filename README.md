@@ -1,4 +1,4 @@
-# CV
+
 
 <html>
 <head>
@@ -62,7 +62,7 @@ li a:hover:not(.active) {
   <p>Religion			         	  :Islam</p>
   <p>Nationality			      	:Bangladeshi</p>
   <p>Educational Qualification: <br>  
-    <img src="cv1.jpg" width="300" height="350"></br>  </p>             
+    <img src="cv1.jpg" width="300" height="350"> </br>  </p>             
     
     
   
